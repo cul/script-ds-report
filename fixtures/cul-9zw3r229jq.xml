@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="cul:9zw3r229jq"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Video"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="fedoraAdmin"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2018-04-18T20:51:49.019Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2018-11-13T18:30:32.305Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2018-04-18T20:51:49.019Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.083Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.116Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.150Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>content</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.200Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>hyacinth_core</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.237Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>hyacinth_struct</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.284Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.359Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-04-18T20:51:49.402Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-10-24T02:52:33.802Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>access</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-10-24T02:52:34.082Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-01T18:31:33.430Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-01T18:31:33.603Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-08T16:22:24.186Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-08T16:22:24.351Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T14:46:47.907Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T14:46:48.095Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:08:08.190Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:08:08.464Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>descMetadata</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:08:08.880Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>captions</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:08:08.951Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC21">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:30:31.907Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC22">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:30:32.001Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC23">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>descMetadata</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2018-11-13T18:30:32.305Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC1.0" LABEL="Dublin Core Record for this object" CREATED="2018-04-18T20:51:49.019Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="372">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2018-04-18T20:51:49.116Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="648">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+  <dc:source>/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</dc:source>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2018-11-01T18:31:33.603Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="718">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+  <dc:identifier>0c5ebf3d-8469-4d4f-a9ec-1dcb3a61d597</dc:identifier>
+  <dc:source>/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</dc:source>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2018-11-08T16:22:24.351Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="718">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+  <dc:identifier>0c5ebf3d-8469-4d4f-a9ec-1dcb3a61d597</dc:identifier>
+  <dc:source>/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</dc:source>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2018-11-13T14:46:48.095Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="718">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+  <dc:identifier>0c5ebf3d-8469-4d4f-a9ec-1dcb3a61d597</dc:identifier>
+  <dc:source>/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</dc:source>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.5" LABEL="Dublin Core Record for this object" CREATED="2018-11-13T18:08:08.464Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="718">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+  <dc:identifier>0c5ebf3d-8469-4d4f-a9ec-1dcb3a61d597</dc:identifier>
+  <dc:source>/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</dc:source>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.6" LABEL="Dublin Core Record for this object" CREATED="2018-11-13T18:30:32.001Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="718">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Video</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:identifier>cul:9zw3r229jq</dc:identifier>
+  <dc:identifier>0c5ebf3d-8469-4d4f-a9ec-1dcb3a61d597</dc:identifier>
+  <dc:source>/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</dc:source>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-04-18T20:51:49.083Z" MIMETYPE="application/rdf+xml" SIZE="814">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://www.loc.gov/premis/rdf/v1#" xmlns:ns1="info:fedora/fedora-system:def/relations-external#" xmlns:ns2="http://purl.oclc.org/NET/CUL/" xmlns:ns3="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <ns2:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns2:memberOf>
+    <ns0:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns0:hasOriginalName>
+    <ns3:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns3:hasModel>
+    <ns1:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns1:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-04-18T20:51:49.402Z" MIMETYPE="application/rdf+xml" SIZE="921">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://www.loc.gov/premis/rdf/v1#" xmlns:ns1="info:fedora/fedora-system:def/relations-external#" xmlns:ns2="http://purl.oclc.org/NET/CUL/" xmlns:ns3="info:fedora/fedora-system:def/model#" xmlns:ns4="http://pcdm.org/models#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <rdf:type rdf:resource="http://pcdm.org/models#Object"></rdf:type>
+    <ns2:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns2:memberOf>
+    <ns0:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns0:hasOriginalName>
+    <ns3:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns3:hasModel>
+    <ns1:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns1:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-11-01T18:31:33.430Z" MIMETYPE="application/rdf+xml" SIZE="921">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://purl.oclc.org/NET/CUL/" xmlns:ns1="http://pcdm.org/models#" xmlns:ns2="http://www.loc.gov/premis/rdf/v1#" xmlns:ns3="info:fedora/fedora-system:def/model#" xmlns:ns4="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <rdf:type rdf:resource="http://pcdm.org/models#Object"></rdf:type>
+    <ns0:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns0:memberOf>
+    <ns2:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns2:hasOriginalName>
+    <ns3:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns3:hasModel>
+    <ns4:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns4:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.3" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-11-08T16:22:24.186Z" MIMETYPE="application/rdf+xml" SIZE="921">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://purl.oclc.org/NET/CUL/" xmlns:ns1="http://pcdm.org/models#" xmlns:ns2="http://www.loc.gov/premis/rdf/v1#" xmlns:ns3="info:fedora/fedora-system:def/model#" xmlns:ns4="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <rdf:type rdf:resource="http://pcdm.org/models#Object"></rdf:type>
+    <ns0:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns0:memberOf>
+    <ns2:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns2:hasOriginalName>
+    <ns3:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns3:hasModel>
+    <ns4:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns4:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.4" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-11-13T14:46:47.907Z" MIMETYPE="application/rdf+xml" SIZE="921">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://purl.oclc.org/NET/CUL/" xmlns:ns1="http://pcdm.org/models#" xmlns:ns2="http://www.loc.gov/premis/rdf/v1#" xmlns:ns3="info:fedora/fedora-system:def/model#" xmlns:ns4="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <rdf:type rdf:resource="http://pcdm.org/models#Object"></rdf:type>
+    <ns0:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns0:memberOf>
+    <ns2:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns2:hasOriginalName>
+    <ns3:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns3:hasModel>
+    <ns4:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns4:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.5" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-11-13T18:08:08.190Z" MIMETYPE="application/rdf+xml" SIZE="1140">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://purl.oclc.org/NET/CUL/" xmlns:ns1="http://pcdm.org/models#" xmlns:ns2="http://www.loc.gov/premis/rdf/v1#" xmlns:ns3="info:fedora/fedora-system:def/model#" xmlns:ns4="info:fedora/fedora-system:def/relations-external#" xmlns:ns5="http://purl.org/ontology/bibo/" xmlns:ns6="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <rdf:type rdf:resource="http://pcdm.org/models#Object"></rdf:type>
+    <ns0:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns0:memberOf>
+    <ns6:publisher rdf:resource="info:fedora/cul:n2z34tmr54"></ns6:publisher>
+    <ns5:doi rdf:resource="doi:10.7916/D8ZS4DFZ"></ns5:doi>
+    <ns2:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns2:hasOriginalName>
+    <ns3:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns3:hasModel>
+    <ns4:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns4:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.6" LABEL="Fedora Object-to-Object Relationship Metadata" CREATED="2018-11-13T18:30:31.907Z" MIMETYPE="application/rdf+xml" SIZE="1140">
+<foxml:xmlContent>
+<rdf:RDF xmlns:ns0="http://purl.oclc.org/NET/CUL/" xmlns:ns1="http://pcdm.org/models#" xmlns:ns2="http://purl.org/dc/terms/" xmlns:ns3="http://purl.org/ontology/bibo/" xmlns:ns4="http://www.loc.gov/premis/rdf/v1#" xmlns:ns5="info:fedora/fedora-system:def/model#" xmlns:ns6="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/cul:9zw3r229jq">
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/CUL/Resource"></rdf:type>
+    <rdf:type rdf:resource="http://pcdm.org/models#Object"></rdf:type>
+    <ns0:memberOf rdf:resource="info:fedora/cul:rfj6q574ck"></ns0:memberOf>
+    <ns2:publisher rdf:resource="info:fedora/cul:n2z34tmr54"></ns2:publisher>
+    <ns3:doi rdf:resource="doi:10.7916/D8ZS4DFZ"></ns3:doi>
+    <ns4:hasOriginalName>/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov</ns4:hasOriginalName>
+    <ns5:hasModel rdf:resource="info:fedora/ldpd:GenericResource"></ns5:hasModel>
+    <ns6:isConstituentOf rdf:resource="info:fedora/cul:gf1vhhmhbv"></ns6:isConstituentOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-INT" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-INT.0" LABEL="" CREATED="2018-04-18T20:51:49.150Z" MIMETYPE="application/octet-stream" SIZE="674">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+RELS-INT+RELS-INT.0"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.1" LABEL="" CREATED="2018-10-24T02:52:33.802Z" MIMETYPE="application/octet-stream" SIZE="898">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+RELS-INT+RELS-INT.1"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="CONTENT" STATE="A" CONTROL_GROUP="E" VERSIONABLE="true">
+<foxml:datastreamVersion ID="CONTENT.2" LABEL="CARN30_v_1_READY_TO_EXPORT.mov" CREATED="2018-04-18T20:51:49.200Z" MIMETYPE="video/quicktime">
+<foxml:contentLocation TYPE="URL" REF="file:/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="content" STATE="A" CONTROL_GROUP="E" VERSIONABLE="true">
+<foxml:datastreamVersion ID="content.1" LABEL="CARN30_v_1_READY_TO_EXPORT.mov" CREATED="2018-04-18T20:51:49.200Z" MIMETYPE="video/quicktime">
+<foxml:contentLocation TYPE="URL" REF="file:/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="content.0" LABEL="CARN30_v_1_READY_TO_EXPORT.mov" CREATED="2018-04-18T20:51:49.200Z" MIMETYPE="video/quicktime">
+<foxml:contentLocation TYPE="URL" REF="file:/a/b/c/10488425_carnegie_oh_ur_06-029a9f49-5ebd-484c-9a27-b6975288d202/data/objects/10510624_Levine/Step_1._Final_CARN_ProRes_Segments/CARN30_v_1_READY_TO_EXPORT.mov"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="hyacinth_core" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="hyacinth_core.0" LABEL="hyacinth_core" CREATED="2018-04-18T20:51:49.237Z" MIMETYPE="application/json" SIZE="133">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+hyacinth_core+hyacinth_core.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="hyacinth_struct" STATE="A" CONTROL_GROUP="M" VERSIONABLE="false">
+<foxml:datastreamVersion ID="hyacinth_struct.0" LABEL="hyacinth_struct" CREATED="2018-04-18T20:51:49.284Z" MIMETYPE="application/json" SIZE="2">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+hyacinth_struct+hyacinth_struct.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="access" STATE="A" CONTROL_GROUP="E" VERSIONABLE="false">
+<foxml:datastreamVersion ID="access.0" LABEL="access.mp4" CREATED="2018-10-24T02:52:34.082Z" MIMETYPE="video/mp4">
+<foxml:contentLocation TYPE="URL" REF="file:/a/b/d/61/c2/94/61c294953d770e0bfdfe125a6f539bb664cb9ca7893486d59b585625537114c5/access.mp4"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="descMetadata" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="descMetadata.0" LABEL="descMetadata" CREATED="2018-11-13T18:08:08.880Z" MIMETYPE="text/xml" SIZE="1034">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+descMetadata+descMetadata.0"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="descMetadata.1" LABEL="descMetadata" CREATED="2018-11-13T18:30:32.305Z" MIMETYPE="text/xml" SIZE="1011">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+descMetadata+descMetadata.1"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="captions" STATE="A" CONTROL_GROUP="M" VERSIONABLE="false">
+<foxml:datastreamVersion ID="captions.0" LABEL="captions" CREATED="2018-11-13T18:08:08.951Z" MIMETYPE="text/vtt" SIZE="84707">
+<foxml:contentDigest TYPE="MD5" DIGEST="172c789cf9eac1610f8ea6f2c61df013"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="cul:9zw3r229jq+captions+captions.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>
